@@ -1,1 +1,1 @@
-prtin('is this a .py')
+print('is this a .py?')
